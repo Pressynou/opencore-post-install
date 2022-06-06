@@ -27,3 +27,11 @@
 ## 🖥 Multiboot
 
 * [Page 5](multiboot/page-5.md)
+
+## 😲 Miscellaneous
+
+* [Page 7](miscellaneous/page-7.md)
+
+## 😕 GPU Patching
+
+* [Page 8](gpu-patching/page-8.md)
